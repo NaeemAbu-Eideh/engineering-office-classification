@@ -49,3 +49,8 @@ Engineering Office Classification is a computer program that is used to automate
 ## Activity diagrams:
 <p><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdAoZkf49KgzNXoZJf1MAg-iyqLaLmLFMnA4mPgUy9K9g9-unWUM4OXp6czKCP3OPZ8NogrpYCG858UoNEaozBXfmVtv7J6znjPvPWa4F3sYrCRo1UmMn628IMIZgcDF8oLLqPU6MTRiuFXkTtj3oSMsFiEIFyjRQZmpck1m8cK_WnWAMO8o7g=s800?key=DllcZ2XzG4PqKspGQ014uA" width="600px"></p>
 
+## How run program:
+- Clone the repo
+- install python for your pc
+- after installing python, install Customtkinter library 
+
