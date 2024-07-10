@@ -32,4 +32,18 @@ Engineering Office Classification is a computer program that is used to automate
 - Engineering Offices and Companies Authority
   <p><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXepAKgCuNBW-T8pbi7CUDT1gcXFsjzMdGd3osDneDy3lrhzAQ-OWGsto3a9w84jw1xCq-OQ1izxX76iZNMVVll1GLlmX0abl0uNI3BUrqZNxt3KAgOtYpfb1Wxz_Qv_AXY_UjOASLS2nme3nXvloitOchro5kSZ9Mm06fiOgBf7RCg5BR1z-A=s800?key=DllcZ2XzG4PqKspGQ014uA" width="600px"></p>
 
+## Sequence diagram:
+- Login
+  <p><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdsRURTAby93JPNxwSUYyVXE7mASzhZ-qP7QN6ah-MRf0DxI5ivtMJ8pym1o8nOfQG9V3p1PuUA6d8wf8oz2Q-Bl5qAq4LkEUyTDpgsEUxgxLrEdBjhzCTwmKcpCUOqWGN3rwHWq9SEYEt2Ve6JwG2KmHrLg0NgC1cnENwU9XkmnW4lyJ1-Mg=s800?key=DllcZ2XzG4PqKspGQ014uA" width="600px"></p>
+- Office official
+  <p><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXcD0YgOuHinYd2Du0G_HyfIgikOmXDHDcO4EQ2L0AI21KolDZ_fsu2QKfUoJF_8e9GC4qp0L2kSMPusTtG_Ycsz69O4yyv06cXAV0oidUoUxQ2L_7EI8O9ZvZp0jhlJueGSWoHHuHYGqRzoYpcb9Wa8B7iO2dq8vfTewFz4bEo9jIANpj3SpH0=s800?key=DllcZ2XzG4PqKspGQ014uA" width="600px"></p>
+- Financial Affairs Department
+  <p><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXd2Ui-8pwxACEYmq6OtIHBVdAkj8_MxPKk_zO6hXUHRWM-T5i1PWKk9bFdqT3Uhx3UaTRf8qAHVDLrPEeqrGp-O4fXNGl_TOvC0g8menH0s8C2VMoLmLC4oXTCfu-hb8PbPZvnq0YxkVz8JaMDuzNkCFEW48swzE9RQ3A26GWK5Z8nTsxkh4w=s800?key=DllcZ2XzG4PqKspGQ014uA" width="600px"></p>
+- Engineering Offices Department
+  <p><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdg-gIVq5DSlsU5OuG81bwF8-QSDE5byzdyT5BUCPTrDtPvsgRsEkgX2C4k7bSq3ESrTo3a4o70hC6qn4QSS9rrPjTU_-GAY_4xpVDI-50gpzjT617PjngduPofyMaSXTqvfdsU5O7xclrF0GaBM8wgPIScURQjqSeRB-uN93LcX00VVn4bztc=s800?key=DllcZ2XzG4PqKspGQ014uA" width="600px"></p>
+- Technical Affairs sequence
+  <p><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXeybZVyrHXiHq9BhunxFXgZ3mkzUNjeT_SrBlgMHJSV8CaT6vlQFJpayJBthkN5LeL8CmV619NkAX-oO_P1629aLmx4g-hkj6S-u-mQuaaeh5--xzzXR99ERZzDaDj6oUJYdvxy7-4-Uh5mH71OhnxpMjwrOJeYsrtMxc-Lg6YXn6JNCPjxATM=s800?key=DllcZ2XzG4PqKspGQ014uA" width="600px"></p>
+- Engineering Offices and Companies Authority
+  <p><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXf9_OcNOMekMXT-FsnhGcGYtlWkmmZUGmfI7EbA3VV8-e0kSy1Hv7vq8slVH2lE19irgftcdzJTl6knBEszMnKCrsIIoHHT5JRBWNWQYBhVgDh_dZitQKFMIn1Xv3096ydshXz0bglKDUdnP50rFAlwz2-IK7xYZBZBhwGiacv0Zk-6vVGalFQ=s800?key=DllcZ2XzG4PqKspGQ014uA" width="600px"></p>
+
 
