@@ -46,4 +46,6 @@ Engineering Office Classification is a computer program that is used to automate
 - Engineering Offices and Companies Authority
   <p><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXf9_OcNOMekMXT-FsnhGcGYtlWkmmZUGmfI7EbA3VV8-e0kSy1Hv7vq8slVH2lE19irgftcdzJTl6knBEszMnKCrsIIoHHT5JRBWNWQYBhVgDh_dZitQKFMIn1Xv3096ydshXz0bglKDUdnP50rFAlwz2-IK7xYZBZBhwGiacv0Zk-6vVGalFQ=s800?key=DllcZ2XzG4PqKspGQ014uA" width="600px"></p>
 
+## Activity diagrams:
+<p><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdAoZkf49KgzNXoZJf1MAg-iyqLaLmLFMnA4mPgUy9K9g9-unWUM4OXp6czKCP3OPZ8NogrpYCG858UoNEaozBXfmVtv7J6znjPvPWa4F3sYrCRo1UmMn628IMIZgcDF8oLLqPU6MTRiuFXkTtj3oSMsFiEIFyjRQZmpck1m8cK_WnWAMO8o7g=s800?key=DllcZ2XzG4PqKspGQ014uA" width="600px"></p>
 
