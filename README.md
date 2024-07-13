@@ -52,4 +52,4 @@ Engineering Office Classification is a computer program that is used to automate
 ## How run program:
 - Clone the repo
 - install python for your pc <a href="https://www.python.org/downloads/">download python</a>
-
+- after installing python, install Customtkinter library: pip3 install customtkinter
